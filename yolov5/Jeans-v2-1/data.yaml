@@ -1,0 +1,6 @@
+names:
+- Broken Filaments
+- Knots
+nc: 2
+train: Jeans-v2-1/train/images
+val: Jeans-v2-1/valid/images
